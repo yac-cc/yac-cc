@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yac-cc
+- 👋 Hi, This is @yac-cc
 - 👀 Seeking for help of C++ python shell 
 - 🌱 also learning how to use vim to compiling
 - 💞️ learning git rightnow
